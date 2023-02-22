@@ -1,5 +1,5 @@
 # Oracle WebLogic Architecture on AWS
-![Modelo](https://d1.awsstatic.com/whitepapers/Oracle-WebLogic-12c-on-AWS.pdf)
+[Modelo](https://d1.awsstatic.com/whitepapers/Oracle-WebLogic-12c-on-AWS.pdf)
 
 ![](./images/weblogic.png)
 
