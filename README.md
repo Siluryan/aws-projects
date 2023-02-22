@@ -24,7 +24,7 @@ Porta: TCP personalizado 7001
 ### 2.3 - Criar perfil do IAM para Gerenciamento de Sessão
 Nome: role-ec2-ssm
 
-### 2.4 - Colocar Dados de Usuário
+### 2.4 - Colocar Dados de Usuário (Admin Server)
 ```bash
 mkdir /u01
 mkdir /u01/oracle
