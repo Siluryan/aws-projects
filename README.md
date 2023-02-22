@@ -25,6 +25,7 @@ Porta: TCP personalizado 7001
 Nome: role-ec2-ssm
 
 ### 2.4 - Colocar Dados de Usuário
+```bash
 mkdir /u01
 mkdir /u01/oracle
 cd /u01/oracle
@@ -45,3 +46,4 @@ docker login container-registry.oracle.com --username $username --password $pass
 ###########################
 docker run -d -p 7001:7001 -p 9002:9002 \
 -v $PWD:/u01/oracle/properties container-registry.oracle.com/middleware/weblogic:12.2.1.4
+```
